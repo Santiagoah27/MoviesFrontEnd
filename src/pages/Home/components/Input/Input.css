@@ -1,0 +1,16 @@
+.input-error {
+    border: 2px solid red !important;
+    color: red;
+    background: rgb(206, 148, 148);
+}
+
+.input-error::placeholder {
+    color: red;
+    font-size: 14px;
+}
+.border{
+    border-radius: 17px;
+}
+.div-container{
+    margin-bottom: -16px;
+}

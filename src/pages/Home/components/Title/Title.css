@@ -1,0 +1,7 @@
+.title-container{
+    color: rgb(242 233 233);
+    text-align: center;
+    font-size: 3rem;
+    text-shadow: 0 0 10px #cd5913, 0 0 20px #fff, 0 0 30px #efeef3, 0 0 40px #9d5525,
+      0 0 50px #fcf6f6, 0 0 60px #2e048f, 0 0 70px #0c0455;
+}
